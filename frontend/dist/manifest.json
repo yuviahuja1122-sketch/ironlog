@@ -1,0 +1,9 @@
+{
+  "name": "IronLog",
+  "short_name": "IronLog",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#18181b",
+  "theme_color": "#18181b",
+  "description": "Gym progress tracker with AI coaching"
+}
